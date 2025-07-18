@@ -58,10 +58,11 @@ print(f"Our calculated Simple Interest is: {simple_interest}")
 
 
 # Survey about a person & their interests and prepare a mini report or a biodata
-# Collect Name, Birth year - Calculate age while printing, Interests, Hobbies
-# A brief quote about them to be visible in quotes while printing
+# Collect Name, Birth year - Calculate age
+# Collect Interests, Hobbies
+# Collect - A brief quote about them to be visible in "quotes" while printing
 # Collect marks of 3 subjects in their grade and calculate percentage of marks
-# Percentage = (sub_1_marks + sub_2_marks + sub_3_marks)/3*100
+# Calculate Percentage = ((sub_1_marks + sub_2_marks + sub_3_marks)/ (total marks per subject * 3 )) *100
 # Collect all the information into a variable called biodata - using formatter string f"" and then print it
 
 print("\n")
